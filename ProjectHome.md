@@ -1,0 +1,1 @@
+This project is a c++ project that uses the strategy design pattern to implement a naive search algorithm,to search for a substring in a given string(The so called "Needle in the Haystack" search).
